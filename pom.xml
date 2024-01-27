@@ -18,6 +18,7 @@
     <modules>
         <module>demo-log-aspect</module>
         <module>demo-sliding-time-window</module>
+        <module>demo-totp-algorithm</module>
     </modules>
 
     <properties>
